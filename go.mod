@@ -16,5 +16,5 @@ require (
 	gitlab.com/VolantMQ/vlplugin/persistence/mem v0.0.7
 	go.uber.org/zap v1.12.0
 	golang.org/x/crypto v0.0.0-20190927123631-a832865fa7ad // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200121175148-a6ecf24a6d71
+	gopkg.in/yaml.v3 v3.0.1
 )
